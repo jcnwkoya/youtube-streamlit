@@ -1,1 +1,6 @@
-streamlit==1.29.0
+streamlit
+pandas
+gspread
+google
+gspread_dataframe
+
